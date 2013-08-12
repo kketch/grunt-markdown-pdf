@@ -43,7 +43,7 @@
     "template"
   ],
   "dependencies": {
-    "markdown-pdf": "~1.0.0",
+    "markdown-pdf": "git://github.com/kketch/markdown-pdf",
     "async": "~0.2.8"
   }
 }
